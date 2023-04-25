@@ -8,7 +8,7 @@ css project
 Trying to check my limits
 
 ## live View
-[live view]()
+[live view](http://127.0.0.1:5500/newOne/index.html)
 
 ## Built With
 
