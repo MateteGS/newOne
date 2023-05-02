@@ -106,16 +106,20 @@ h3{
 
 #response1 {
     background-color: gray;
-    width: 80px;
+    width: 90px;
     margin-left: 10px;
     font-size: 1.2em;
+    padding: 5px;
+    border-radius: 0 10px;
 }
 #response2 {
     background-color: white;
     color: black;
-    width: 80px;
+    width: 90px;
     margin: 10px 0 10px 70px;
     font-size: 1.2em;
+    padding: 5px;
+    border-radius: 10px 0;
 }
 
 #first {
@@ -175,5 +179,8 @@ h3{
     padding: 6px 9.4px;
     border-radius: 5px;
     box-shadow: 6px 6px 20px gray;
-
+}
+#keyboard:hover {
+    background-color:white;
+    color: red;
 }
