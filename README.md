@@ -8,7 +8,7 @@ css project
 Trying to check my limits
 
 ## live View
-[live view](http://127.0.0.1:5501/newOne/index.html)
+[live view](https://famous-frangollo-d7f413.netlify.app/)
 
 ## Built With
 
